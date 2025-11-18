@@ -817,10 +817,8 @@ Outputs:
 Plantilla generada
 
 <img width="921" height="73" alt="image" src="https://github.com/user-attachments/assets/913683f8-8fbc-45a8-a45d-5774535046dd" />
----
+
 # Listando CDK
-
-
 <img width="589" height="91" alt="image" src="https://github.com/user-attachments/assets/6c53a6e3-31cb-4d44-8d44-c0d93da2d099" />
 
 
