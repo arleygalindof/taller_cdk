@@ -15,6 +15,7 @@ Validación Versión CDK
 # Directorio del proyecto
 
 <img width="921" height="75" alt="image" src="https://github.com/user-attachments/assets/e8941606-6f67-4348-8372-cde26950346a" />
+
 # Configuración Region
 
 <img width="680" height="69" alt="image" src="https://github.com/user-attachments/assets/1e0830a0-c3e3-4917-bc32-5dee2386a3bf" />
@@ -817,7 +818,8 @@ Plantilla generada
 
 <img width="921" height="73" alt="image" src="https://github.com/user-attachments/assets/913683f8-8fbc-45a8-a45d-5774535046dd" />
 ---
-# **Listando CDK**
+# Listando CDK
+
 
 <img width="589" height="91" alt="image" src="https://github.com/user-attachments/assets/6c53a6e3-31cb-4d44-8d44-c0d93da2d099" />
 
